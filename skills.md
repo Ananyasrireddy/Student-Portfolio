@@ -1,23 +1,29 @@
 # Technical Skills
 
-Replace these examples with skills you can confidently discuss in an interview.
-
 ## Programming Languages
-- Java — Beginner / Intermediate
-- Python — Beginner / Intermediate
-- C — Beginner
+- Python
+- Java (basic knowledge)
+- SQL
 
 ## Web Technologies
 - HTML
 - CSS
-- JavaScript (currently learning)
+- REST API fundamentals
 
-## Developer Tools
+## Core Computer Science
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+
+## Tools
 - Git
 - GitHub
 - Visual Studio Code
 
-## Skills to Improve
-- Data Structures and Algorithms
-- SQL and database fundamentals
-- Testing and debugging
+## Learning Goals
+- Improve problem-solving and DSA skills
+- Build practical Python projects
+- Learn backend development and database integration
+- Understand collaborative software development using Git and GitHub

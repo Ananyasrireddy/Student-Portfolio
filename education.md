@@ -1,18 +1,26 @@
 # Education
 
 ## Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
 
-## Relevant Coursework
-- Programming Fundamentals
+- **College:** Aditya College of Engineering and Technology
+- **Branch:** Computer Science and Engineering (Data Science)
+- **Expected Graduation:** 2028
+
+## Coursework
+
 - Data Structures and Algorithms
 - Database Management Systems
+- Operating Systems
 - Computer Networks
-- Software Engineering
+- Machine Learning
 
-## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+## Achievements
+
+-
+## Achievements
+
+- Maintained a CGPA of 9.3/10 in B.Tech CSE (Data Science).
+- Earned technical learning credentials in areas including Oracle technologies and quantum computing.
+- Served as a Face of Internshala representative, generating seven referrals and earning a Gold Key.
+- Contributed to a Smart India Hackathon project focused on packaged commodity compliance using OCR and FastAPI.
+- Gained practical experience with Git and GitHub, including branching, commits, pull requests, and repository management.
