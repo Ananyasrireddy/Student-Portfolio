@@ -1,26 +1,17 @@
-# Projects
+# My Projects
 
-Add clear, honest descriptions of academic and personal projects.
+## 1. Money Management App
 
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
+- **Problem:** Students often find it difficult to track their daily expenses and manage their monthly budget.
+- **Solution:** A Money Management App that helps users record income and expenses, organise spending, and monitor their savings.
+- **Technologies:** Python, SQL, HTML, CSS.
+- **My Contribution:** Planned the application features and worked on organising income and expense tracking.
+- **Possible Improvement:** Add expense charts, monthly budget alerts, and savings goals.
 
-## Project 2: Personal Portfolio Website
-- **Problem:** Students need a simple way to present their skills and work.
-- **Solution:** A responsive webpage with sections for about, skills, projects, and contact details.
-- **Technologies:** HTML, CSS, Git
-- **My contribution:** Created the page structure and styling.
-- **Possible improvement:** Add a project filter and improve accessibility.
+## 2. Internship and Job Tracker
 
-## Project template
-### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
+- **Problem:** Students find it difficult to manage internship and job applications, deadlines, and application statuses in one place.
+- **Solution:** An Internship and Job Tracker that allows users to save opportunities, record application deadlines, and track statuses such as Applied, Interview, and Selected.
+- **Technologies:** Python, SQL, HTML, CSS.
+- **My Contribution:** Planned the application structure and organised the information needed to track applications.
+- **Possible Improvement:** Add deadline reminders, search filters, and a dashboard showing application progress.
